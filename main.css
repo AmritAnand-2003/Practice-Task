@@ -45,6 +45,9 @@ body{
     flex-direction: column;
     /* background-color: black; */
   }
+  .image{
+      border: none;
+  }
 }
 li::marker{
    content:"\25CF";
